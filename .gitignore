@@ -1,0 +1,5 @@
+client/cache
+client/dist
+client/node_mobules
+server/node_modules
+server/.env
