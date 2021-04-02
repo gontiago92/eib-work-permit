@@ -1,5 +1,6 @@
 [{
   "id": 1,
+  "permit_number": "19-0522",
   "status": "standby",
   "row_type": "default",
   "company": "Eare",
@@ -14,6 +15,7 @@
   "person_in_charge": "Daisie Simchenko"
 }, {
   "id": 2,
+  "permit_number": "21-0345",
   "status": "standby",
   "row_type": "bg",
   "company": "Brainbox",
@@ -28,6 +30,7 @@
   "person_in_charge": "Reilly Genders"
 }, {
   "id": 3,
+  "permit_number": "21-0523",
   "status": "closed",
   "row_type": "default",
   "company": "Jabbertype",
@@ -42,6 +45,7 @@
   "person_in_charge": "Marjy Giovannelli"
 }, {
   "id": 4,
+  "permit_number": "19-1502",
   "status": "standby",
   "row_type": "color",
   "company": "Vinder",
@@ -56,6 +60,7 @@
   "person_in_charge": "Tory Knee"
 }, {
   "id": 5,
+  "permit_number": "20-0112",
   "status": "open",
   "row_type": "color",
   "company": "Avamm",
@@ -70,6 +75,7 @@
   "person_in_charge": "Deane O' Hern"
 }, {
   "id": 6,
+  "permit_number": "18-0010",
   "status": "open",
   "row_type": "bg",
   "company": "Yodoo",
@@ -84,6 +90,7 @@
   "person_in_charge": "Chrystal Laughlin"
 }, {
   "id": 7,
+  "permit_number": "19-1060",
   "status": "open",
   "row_type": "bg",
   "company": "Linkbuzz",
@@ -98,6 +105,7 @@
   "person_in_charge": "Tedda Crowdace"
 }, {
   "id": 8,
+  "permit_number": "21-0354",
   "status": "standby",
   "row_type": "color",
   "company": "Jaloo",
@@ -112,6 +120,7 @@
   "person_in_charge": "Carline Sjollema"
 }, {
   "id": 9,
+  "permit_number": "20-0103",
   "status": "standby",
   "row_type": "bg",
   "company": "Oyonder",
@@ -126,6 +135,7 @@
   "person_in_charge": "Catlin Garmans"
 }, {
   "id": 10,
+  "permit_number": "21-0135",
   "status": "closed",
   "row_type": "bg",
   "company": "Wikivu",
